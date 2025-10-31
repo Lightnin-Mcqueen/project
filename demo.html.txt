@@ -1,2 +1,4 @@
 <h1>hello &  how are you..?<h1>
+Password for Mail and Linkedin and IBM were the same.
+Remaining is required as usual same 
 <h2>started new peoject<h2>
