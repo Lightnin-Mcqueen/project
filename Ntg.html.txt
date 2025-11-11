@@ -1,1 +1,16 @@
-<h1>hello buddy<h1>
+#swapping numbers 
+
+#include <stdio.h>
+
+int main(){
+int a,b,c;
+    printf("enter the values :");
+    scanf("%d,%d" ,&a, &b);
+    printf("before sweapping a = %d , b = %d \n", a,b);
+    c = a;
+    a = b;
+    b = c;
+    printf("after sweapping a = %d , b = %d \n", a,b);
+
+    return 0;
+}
